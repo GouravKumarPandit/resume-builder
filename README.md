@@ -12,9 +12,6 @@ Welcome to the Dynamic Resume Builder! This application allows users to create p
 - **Profile Photo Upload:** Upload your profile photo.
 - **PDF Download:** Download your resume as a PDF.
 
-## Live Demo
-
-Check out the live demo [here](https://rb-react.vercel.app/).
 
 ## GitHub Repository
 
